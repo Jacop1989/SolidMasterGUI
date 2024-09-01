@@ -1,0 +1,10 @@
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\bin\Debug\SolidMasterGUI.exe.config
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\bin\Debug\SolidMasterGUI.exe
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\bin\Debug\SolidMasterGUI.pdb
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.csproj.AssemblyReference.cache
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.Form1.resources
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.Properties.Resources.resources
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.csproj.GenerateResource.cache
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.csproj.CoreCompileInputs.cache
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.exe
+D:\CShap_Project\SolidMasterGUI\SolidMasterGUI\obj\Debug\SolidMasterGUI.pdb
